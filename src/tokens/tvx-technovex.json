@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "3JxMMDH9V41UJ4gzcgtREJTnL59UNLQMMxzs9VT7xEin",
+  "symbol": "TVX",
+  "name": "Technovex",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Technovexofficial/token-list/main/assets/mainnet/3JxMMDH9V41UJ4gzcgtREJTnL59UNLQMMxzs9VT7xEin/logo.png",
+  "extensions": {
+    "website": "https://technovexofficial.com",
+    "twitter": "https://x.com/hormuzdeng",
+    "whitepaper": "https://technovexofficial.com/whitepaper.pdf"
+  }
+}
